@@ -26,7 +26,7 @@ Sou um apaixonado por tecnologia e desenvolvimento de software! Atualmente, esto
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
 
 ## ✨ Como me encontrar
-- **LinkedIn:** [Seu Perfil](https://www.linkedin.com/in/chrissardo/)
+- **LinkedIn:** [Christian Sardo](https://www.linkedin.com/in/chrissardo/)
 - **E-mail:** christian.ps.blumenau@gmail.com
 
 Se curtiu meu trabalho, fique à vontade para se conectar! Vamos construir algo incrível juntos! 💪
